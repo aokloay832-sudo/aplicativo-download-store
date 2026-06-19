@@ -1,0 +1,16 @@
+{
+  "name": "api-campanhas-playstore",
+  "version": "1.0.0",
+  "description": "API integrada ao Google Sheets para gerenciamento de aplicativos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
